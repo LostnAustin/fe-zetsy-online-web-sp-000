@@ -42,7 +42,7 @@ h1 {
 }
 
 #image {
-	border:  5px rgb(152, 173, 166) solid;
+	border:  5px solid grey;
 }
 
 #press img:hover {
