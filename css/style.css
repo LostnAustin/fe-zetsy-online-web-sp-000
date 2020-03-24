@@ -37,7 +37,7 @@ h1 {
     font-size: 5em;
     font-weight: normal;
     font-family: 'Baskerville', serif;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px grey solid;
 }
 
 #image {
