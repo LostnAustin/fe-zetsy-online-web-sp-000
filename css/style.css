@@ -39,10 +39,13 @@ h1 {
 	padding: 5px;
 }
 
-.titles:hover {
+#press img:hover {
+	border: 5px grey solid;
+	padding: 1px;
+}
+#titles:hover {
 	display: inline-block;
 	border: black;
-
 }
 
 
