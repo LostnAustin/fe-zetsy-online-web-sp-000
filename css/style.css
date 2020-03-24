@@ -38,7 +38,7 @@ h1 {
 }
 
 #image {
-	border: black 3px;
+	border:  3px black solid;
 	padding: 5px;
 }
 
