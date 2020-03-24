@@ -10,12 +10,12 @@ require '../fonts/Baskerville.ttc'
 	font-family: 'Times New Roman', serif;
 }
 
-.wrapper {
+/*.wrapper {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-}
+}*/
 
 /* Write all remaining styles here */
 /**, *:before, *:after {
