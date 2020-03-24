@@ -4,7 +4,7 @@ require '../fonts/Baskerville.ttc'
 
 /*////////// Global Styles //////////*/
 
-*body {
+body* {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
