@@ -3,7 +3,10 @@ require '../fonts/Baskerville.ttc'
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
+* {
+	padding: 0;
+	margin: 0;
+}
 body {
 	background: black;
 	 /*#F3EBE9;*/
