@@ -41,7 +41,7 @@ h1 {
 
 .titles:hover {
 	display: inline-block;
-	border: black 10px;
+	border: black;
 	align-items: center;
 }
 
