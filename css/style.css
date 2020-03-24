@@ -40,8 +40,8 @@ h1 {
 }
 
 .titles:hover {
-
-	border: black;
+	border
+	border: black 10px;
 	align-items: center;
 }
 
