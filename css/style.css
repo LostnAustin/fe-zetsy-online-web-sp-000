@@ -41,6 +41,7 @@ h1 {
 
 .titles:hover {
 	background-color: black;
+	align-items: center;
 }
 
 
