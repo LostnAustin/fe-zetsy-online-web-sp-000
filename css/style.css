@@ -27,7 +27,7 @@ body {
   box-sizing: border-box;
 }*/
 h2 {
-  text-decoration-color:  grey;
+  color:  grey;
 }
 
 h1 {
@@ -43,11 +43,6 @@ h1 {
 	border: 5px grey solid;
 	padding: 1px;
 }
-/*#titles:hover {
-	display: inline-block;
-	border: black;
-}*/
-
 
 .zetsy-foot {
   text-align: right;
