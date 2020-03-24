@@ -38,7 +38,7 @@ h1 {
 }
 
 #image {
-	border:  3px grey solid;
+	border:  5px rgb(152, 173, 166) solid;
 }
 
 #press img:hover {
