@@ -37,7 +37,10 @@ h1 {
 .main-image {
 	border: black 3px;
 	padding: 5px;
+}
 
+.titles {
+	border: 1px;
 }
 
 
