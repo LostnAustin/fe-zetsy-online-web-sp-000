@@ -40,7 +40,7 @@ h1 {
 }
 
 .titles:hover {
-	display: block;
+	display: inline-block;
 	border: black 10px;
 	align-items: center;
 }
