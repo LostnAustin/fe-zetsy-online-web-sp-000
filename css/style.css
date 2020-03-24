@@ -39,7 +39,9 @@ h1 {
 	padding: 5px;
 }
 
-
+.titles:hover {
+	background-color: black;
+}
 
 
 .zetsy-foot {
